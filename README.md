@@ -1,4 +1,9 @@
 # flexbox-minesweeper
-Exercice de css flexbox de refaire un minesweeper a partir d'une image donné par le formateur.
+## introduction
+Excercice to learn flexbox by reproducing a minesweeper from an image given by the trainer.
 
-l'excercie a été fait en solo le 30 aout 2023.
+## when was it done
+was make alone on 30 august 2023.
+
+## deployment
+This page is deployed on github pages. You can see the page on this link: [Minesweeper](https://alexandrevdw.github.io/flexbox-minesweeper/)
